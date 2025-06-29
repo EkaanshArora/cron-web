@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "bun-promptx": "^0.2.0",
     "node-cron": "^4.1.0"
   }
 }
